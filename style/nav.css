@@ -14,3 +14,13 @@ nav li a{
     text-decoration: none;
     color: black;
 }
+/* nasted menu styel */
+nav li .dropown{
+    display: none;
+    position: absolute;
+    background-color: lightyellow;
+    padding: 20px;
+}
+nav li:hover > .dropown{
+    display: block;
+}
