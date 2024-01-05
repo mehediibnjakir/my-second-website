@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+table {
+    border-collapse: collapse;
+}
+th , td {
+    text-align: center;
+    margin: 2px;
+    border: solid 1px darkgreen;
+    padding: 5px 10px;
+}
+.cp {
+    text-align: center;
+    border: solid 1px darkgreen;
+    padding: 5px 10px;
+}
